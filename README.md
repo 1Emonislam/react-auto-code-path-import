@@ -13,7 +13,7 @@
 ## jsconfig.json
 > Note: `#step 2.1 also open react app path {src} folder open then creating new file {jsconfig.json} `
 ```sh 
-    {
+   	 {
 		"exclude": ["node_modules"]
 	}
 ```
